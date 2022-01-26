@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/gears.svg">
-  <HelloWorld msg="Under construction"/>
+  <HelloWorld msg="Under constructions"/>
 </template>
 
 <script>
